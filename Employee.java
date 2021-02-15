@@ -41,8 +41,12 @@ public class Employee {
         System.out.println("Name: " + name);
         System.out.println("lastName: " + lastName);
         System.out.println("Id: " +id);
+<<<<<<< HEAD
         System.out.println("End of code");
 
+=======
+        System.out.println("Master change");
+>>>>>>> master
 
     }
 }
