@@ -37,7 +37,7 @@ public class Employee {
 
 
     public void showInformation(){
-        System.out.println("Employee Information");
+        System.out.println("name Information");
         System.out.println("Name: " + name);
         System.out.println("lastName: " + lastName);
         System.out.println("Id: " +id);
